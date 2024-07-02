@@ -1,0 +1,8 @@
+connectors:
+-
+  connector_id: "UFBUcpABBZ9Keqxuw6K5"
+  service_type: "github"
+  api_key: "VVZCVWNwQUJCWjlLZXF4dTFhSlM6cmkydlg0WERUbEtYQ2NIaWRwa2ptdw=="
+elasticsearch:
+  host: "http://localhost:9200"
+  api_key: "VVZCVWNwQUJCWjlLZXF4dTFhSlM6cmkydlg0WERUbEtYQ2NIaWRwa2ptdw=="
